@@ -1,4 +1,4 @@
-# Joystick-WIFI-Telescope-Synscan-sur-base-Arduino-
+# Joystick WIFI Telescope Synscan sur base Arduino (ESP32)
 Ce projet permet de créer un Joystick pour piloter un télescope équipé du système Synscan WIFI grâce à la technologie Arduino (ESP32)
 
 
