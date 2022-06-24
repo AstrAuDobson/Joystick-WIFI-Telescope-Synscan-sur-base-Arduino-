@@ -3,3 +3,5 @@ Ce projet permet de créer un Joystick pour piloter un télescope équipé du sy
 
 
 Rendez-vous sur l'onglet WIKI pour avoir tous les détails permettant de réaliser le projet :)
+
+![](https://github.com/AstrAuDobson/Joystick-WIFI-Telescope-Synscan-sur-base-Arduino-/blob/main/Joystick_wifi_visuel.jpg)
